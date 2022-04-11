@@ -1,1 +1,4 @@
 Silverstein Quotes
+
+A small oh my zsh plugin for output a random Silverstein song quote when you start your terminal.
+Clone this repository inside your `$HOME/.oh-my-zsh/custom/plugins` folder and add it as `silverstein_quotes` to your plugins array inside your `.zshrc`.
